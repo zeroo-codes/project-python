@@ -1,0 +1,22 @@
+# GUI : Graphical User Interface / antar muka pengguna grafis  ->  hasil visual dari codingan
+# - contoh : aplikasi, web, sistem operasi windows, dll
+
+
+
+
+
+# POLA POLA / ELEMEN ELEMEN GUI SEC UNIVERSAL
+#
+# 1 jendela utama / window : tempat semua elemen(widget) ditempel / ditampilkan / dipasang
+#  
+# 2 widget : elemen2 visual
+# - contoh :
+#   ~ button(tombol)
+#   ~ entry(input user / tempat memasukan input teks)
+#   ~ label(teks biasa)
+# 
+# 3 event & handler
+# - event(kejadian yg dipicu oleh user) : misal user menekan tombol exit / x
+# - handler(fungsi yg dijalankan ketika terjadi sebah event / respon terhadap sebuah event) : kemudian aplikasi ditutup
+#
+# 4 main loop / event loop : gampangnya aplikasi terus berjalan / looping, kemudian di dalam looping itu ada event & handler, hingga jendela di tutup / aplikasi ditutup
