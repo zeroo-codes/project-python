@@ -3,7 +3,7 @@
 
 # - why - :
 #   ~ pastinya akan dibutuhkan untuk saya membuat aplikasi kalkulator
-#   ~ untuk membuat fungsi2 sederhana(lebih baik pakai lamda daripada menulis fungsi seperti biasa jika fungsi nya tidak terlalu kompleks / pendek)
+#   ~ untuk membuat fungsi2 sederhana(lebih baik pakai lambda daripada menulis fungsi seperti biasa jika fungsi nya tidak terlalu kompleks / pendek)
 #   ~ untuk menulis fungsi2 sekali pakai
 
 
